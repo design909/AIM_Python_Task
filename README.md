@@ -26,5 +26,8 @@ Usage:
 Run each script individually to see the output. For example, run `factorial.py` to calculate the factorial of a
 number.
 
+NOTE: I have created this assignment as a practice exercise for the Postgraduate Diploma in Artificial Intillegence & Machine Learning, included in
+the coursework requirements.
+
 Author:
 Jerah Meel Ello
